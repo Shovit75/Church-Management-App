@@ -1,0 +1,45 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bg-color{
+    background-color: rgb(227, 227, 227);
+}
+
+.textwhite {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+.table{
+    background-color: #fff;
+}
+
+.rounded-bottom-right {
+    border-bottom: 4px solid yellowgreen; /* Change the thickness, color, and style */
+    border-bottom-right-radius: 0.75rem;
+}
+
+.min-vh-90 {
+    min-height: 99.55vh;
+}
+
+.min-vh-89 {
+    min-height: 89.5vh;
+}
+
+.primarycolor {
+    color:yellowgreen;
+}
+
+.btn-success{
+    background-color:yellowgreen;
+    color: white;
+    border: 1px solid yellowgreen;
+}
+
+.btn-danger{
+    background-color:rgb(253, 77, 77);
+    color: white;
+    border: 1px solid rgb(253, 77, 77);
+}
